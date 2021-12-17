@@ -5,7 +5,7 @@ class Hopper
 {
     private:
 	int currentlyStoredBeans;
-    int maximumStoredBeans;
+    	int maximumStoredBeans;
 
     public:
 	Hopper()
@@ -37,7 +37,7 @@ class WaterReservoir
 {
     private:
 	float currentWaterAmount;
-    float maximumWaterAmount;
+    	float maximumWaterAmount;
 	int waterTemperature;
 
     public:
